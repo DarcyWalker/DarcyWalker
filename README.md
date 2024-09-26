@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @DarcyWalker
+- 👀 I’m interested in: Engine development
+- 🌱 I’m currently learning: C++ and graphics programming
+- 💞️ I’m looking to collaborate on: school stuff
+- 📫 How to reach me: never
+- ⚡ Fun fact: C is the best language.
